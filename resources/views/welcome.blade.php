@@ -303,7 +303,7 @@
                                 <div class="item-benefit-pricing">
                                     <img src="{{ asset('images/ic_check.svg') }}" alt="">
                                     <p>
-                                        Future Job Opportinity
+                                        Future Job Opportunity
                                     </p>
                                     <div class="clear"></div>
                                 </div>
@@ -363,16 +363,17 @@
                             <div class="item-review">
                                 <img src="{{ asset('images/stars.svg') }}" alt="">
                                 <p class="message">
-                                    Code is really important if we want to build a company and strike to the win the win the win the win
+                                    Code is really important if we want to build a company and strike to the win
+                                    <br>
                                 </p>
                                 <div class="user">
-                                    <img src="{{ asset('images/angga.png') }}" class="photo" alt="">
+                                    <img src="{{ asset('images/bimo.png') }}" class="photo" alt="" style="border-radius: 50%">
                                     <div class="info">
                                         <h4 class="name">
-                                            Angga
+                                            Bimo
                                         </h4>
                                         <p class="role">
-                                            CEO at BWA Corp
+                                            Back-end Developer
                                         </p>
                                     </div>
                                 </div>
@@ -401,7 +402,7 @@
                     <div class="row copyright">
                         <div class="col-lg-12 col-12">
                             <p>
-                                All Rights Reserved. Copyright Laracamp BWA Indonesia.
+                                All Rights Reserved. Copyright m0gsy.
                             </p>
                         </div>
                     </div>
